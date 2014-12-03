@@ -1,0 +1,3 @@
+John Doe;john.doe@email.com
+Bill Gates;bill_gates@microsoft.com
+Mickey Mouse;mickey@mouse.com
